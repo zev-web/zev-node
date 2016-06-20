@@ -4,13 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "server": "gulp server"
   },
   "keywords": [],
   "author": "wanghao <wanghao@ninghao.net>",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0",
     "gulp-shell": "^0.5.2"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
   }
 }
