@@ -1,5 +1,5 @@
 {
-  "name": "ninghao-node",
+  "name": "zev-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "server": "gulp server"
   },
   "keywords": [],
-  "author": "wanghao <wanghao@ninghao.net>",
+  "author": "zev <739655642@qq.com>",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
